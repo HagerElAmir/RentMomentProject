@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\GraduationProject\\Rent-A-Moment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|d:\\graduationproject\\rent-a-moment\\rent-a-moment\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|solutionrelative:rent-a-moment\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|d:\\graduationproject\\rent-a-moment\\rent-a-moment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|solutionrelative:rent-a-moment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|d:\\graduationproject\\rent-a-moment\\rent-a-moment\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|solutionrelative:rent-a-moment\\entity\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|d:\\graduationproject\\rent-a-moment\\rent-a-moment\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|solutionrelative:rent-a-moment\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|d:\\graduationproject\\rent-a-moment\\rent-a-moment\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|solutionrelative:rent-a-moment\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Migrations\\20250205194001_Add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rent-A-Moment\\Migrations\\20250205194001_Add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|d:\\graduationproject\\rent-a-moment\\rent-a-moment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|solutionrelative:rent-a-moment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|d:\\graduationproject\\rent-a-moment\\rent-a-moment\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|solutionrelative:rent-a-moment\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|d:\\graduationproject\\rent-a-moment\\rent-a-moment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -79,8 +71,12 @@
       "RelativeMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|solutionrelative:rent-a-moment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Migrations\\20250202225643_AddRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Rent-A-Moment\\Migrations\\20250202225643_AddRole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|d:\\graduationproject\\rent-a-moment\\rent-a-moment\\migrations\\20250205194001_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|solutionrelative:rent-a-moment\\migrations\\20250205194001_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|d:\\graduationproject\\rent-a-moment\\rent-a-moment\\migrations\\20250202225643_addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4200EC79-07FE-4E60-848A-52515D2A9948}|Rent-A-Moment\\Rent-A-Moment.csproj|solutionrelative:rent-a-moment\\migrations\\20250202225643_addrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,17 +86,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Models\\Customer.cs",
               "ToolTip": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Models\\Customer.cs",
               "RelativeToolTip": "Rent-A-Moment\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T16:13:03.572Z",
               "IsPinned": true,
@@ -184,33 +180,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Entity\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Entity\\AppDbContext.cs",
               "ToolTip": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Entity\\AppDbContext.cs",
               "RelativeToolTip": "Rent-A-Moment\\Entity\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T17:02:28.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Rent-A-Moment\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Rent-A-Moment\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAzwFUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T21:52:41.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\appsettings.json",
               "RelativeDocumentMoniker": "Rent-A-Moment\\appsettings.json",
@@ -218,12 +201,11 @@
               "RelativeToolTip": "Rent-A-Moment\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T17:36:15.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:36:15.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Views\\Account\\Register.cshtml",
@@ -231,25 +213,23 @@
               "RelativeToolTip": "Rent-A-Moment\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T15:22:01.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T15:22:01.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Rent-A-Moment",
+              "DocumentIndex": 8,
+              "Title": "Rent-A-Moment.csproj",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Rent-A-Moment.csproj",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Rent-A-Moment.csproj",
               "ToolTip": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Rent-A-Moment.csproj",
               "RelativeToolTip": "Rent-A-Moment\\Rent-A-Moment.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-02T22:02:39.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T22:02:39.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Dto\\RegisterDto.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Dto\\RegisterDto.cs",
@@ -257,12 +237,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Dto\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T22:03:40.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T22:03:40.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Models\\Product.cs",
@@ -270,12 +249,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T14:46:21.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T14:46:21.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Models\\Order.cs",
@@ -283,12 +261,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:33:22.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:33:22.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Program.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Program.cs",
@@ -296,8 +273,7 @@
               "RelativeToolTip": "Rent-A-Moment\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T22:51:48.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T22:51:48.87Z"
             },
             {
               "$type": "Document",
@@ -309,12 +285,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Dto\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T22:30:44.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T22:30:44.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "20250205194001_Add.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Migrations\\20250205194001_Add.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Migrations\\20250205194001_Add.cs",
@@ -322,12 +297,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Migrations\\20250205194001_Add.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T19:40:02.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T19:40:02.152Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Models\\OrderDetail.cs",
@@ -335,12 +309,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Models\\OrderDetail.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:33:24.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:33:24.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Views\\Account\\Login.cshtml",
@@ -348,12 +321,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T22:43:22.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T22:43:22.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Admin.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Models\\Admin.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Models\\Admin.cs",
@@ -361,12 +333,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Models\\Admin.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:06:05.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:06:05.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "Notification.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Models\\Notification.cs",
@@ -374,12 +345,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Models\\Notification.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T18:02:03.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T18:02:03.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Views\\Home\\Index.cshtml",
@@ -387,12 +357,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T23:10:22.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T23:10:22.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Views\\Home\\Privacy.cshtml",
@@ -400,12 +369,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T23:10:26.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T23:10:26.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Views\\Shared\\_Layout.cshtml",
@@ -413,12 +381,11 @@
               "RelativeToolTip": "Rent-A-Moment\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T23:10:44.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T23:10:44.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "20250202225643_AddRole.cs",
               "DocumentMoniker": "D:\\GraduationProject\\Rent-A-Moment\\Rent-A-Moment\\Migrations\\20250202225643_AddRole.cs",
               "RelativeDocumentMoniker": "Rent-A-Moment\\Migrations\\20250202225643_AddRole.cs",
@@ -426,8 +393,7 @@
               "RelativeToolTip": "Rent-A-Moment\\Migrations\\20250202225643_AddRole.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T22:56:43.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T22:56:43.237Z"
             }
           ]
         }
